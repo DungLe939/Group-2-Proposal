@@ -1,0 +1,27 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+$RECYCLE.BIN/
+
+# Office temporary/lock files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.tmp
+
+# Editors and IDEs
+.idea/
+.vscode/*
+!.vscode/settings.json
+*.swp
+*.swo
+
+# Environment & logs
+.env
+.env*.local
+*.log
